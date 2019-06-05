@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d8022ba.chunk.css",
+    "main.js": "/static/js/main.a9730c30.chunk.js",
+    "main.js.map": "/static/js/main.a9730c30.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.e416a6be.chunk.js": "/static/js/2.e416a6be.chunk.js",
+    "static/js/2.e416a6be.chunk.js.map": "/static/js/2.e416a6be.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.309a8ef4fa89ea3bb1382534f43b4021.js": "/precache-manifest.309a8ef4fa89ea3bb1382534f43b4021.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9d8022ba.chunk.css.map": "/static/css/main.9d8022ba.chunk.css.map",
+    "static/media/angular.svg": "/static/media/angular.5c69e565.svg",
+    "static/media/coopet.png": "/static/media/coopet.7495703c.png",
+    "static/media/java.svg": "/static/media/java.7505a2dd.svg",
+    "static/media/mypic.jpg": "/static/media/mypic.6751ff50.jpg"
+  }
+}
